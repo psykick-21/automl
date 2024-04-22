@@ -1,0 +1,7 @@
+pandas
+numpy
+matplotlib
+mlflow
+scikit-learn
+category-encoders
+-e .
